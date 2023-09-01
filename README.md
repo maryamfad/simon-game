@@ -1,3 +1,6 @@
+
+![Untitled](https://github.com/maryamfad/simon-game/assets/60897988/7eb2be2c-5a22-4650-9bec-8063d8f45b2b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
